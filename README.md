@@ -1,5 +1,5 @@
 <div class="logo" align="center">
-  <img style="height: 50%; width: 50%;" src="https://github.com/Redfie/resources/blob/main/logos/Long%20Logo.png?raw=true">
+  <img style="height: 50%; width: 50%;" src="https://github.com/Redfie/resources/blob/main/logos/Redfie_Full_Logo.png?raw=true">
   <p>/rĕd-fē/</p>
 </div>
 
